@@ -1,7 +1,7 @@
 # hfg-course-responsive-design-modular-components
 This repository is used as a starting template for the course "Responsive design and modular components" at the Hochschule für Gestaltung Schwäbisch Gmünd.
 
-# Setup
+## Setup
 1. Download and install git [https://git-scm.com/downloads]
 2. Download and install nodejs + npm [https://nodejs.org/en/]
 3. If you do not have a github account, create a new one
